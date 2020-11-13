@@ -2483,3 +2483,4 @@ www.google.com
 v2mcdev.com
 files.minecraftforge.net
 fabricmc.net
+www.suning.com
