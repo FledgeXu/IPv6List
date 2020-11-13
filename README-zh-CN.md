@@ -1,3 +1,6 @@
+[English](./README.md) [简体中文](./README-zh-CN.md) [正體中文](./README-zh-TW.md)
+
+---
 ## IPv6List
 
 ![](https://img.shields.io/badge/dynamic/json?color=red&label=所有网站&query=%24.original&url=https%3A%2F%2Fraw.githubusercontent.com%2FFledgeXu%2FIPv6List%2Fmain%2Fstatus.json)
