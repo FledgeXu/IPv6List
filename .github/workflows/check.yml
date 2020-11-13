@@ -18,7 +18,8 @@ jobs:
           git config --global user.name "FledgeXu"
           git config --global user.email "xzk0701@gmail.com"
           sudo apt install -y jd
-          sudo chmod +Xx test.sh
+          pwd
+          sudo chmod +aXx ./test.sh
           ./test.sh
           git add -A
           git commit -m "$(date) update"
@@ -27,4 +28,3 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
-          
