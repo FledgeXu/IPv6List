@@ -6,6 +6,8 @@ on:
   push:
     branches:    
       - main
+    paths:
+      - 'websites.txt'
 # When the event is triggered, GitHub Actions will run the jobs indicated
 jobs:
   check:
