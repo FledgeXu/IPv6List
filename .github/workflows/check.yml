@@ -1,10 +1,8 @@
 name: AutoCheck IPv6
 
 on:
-  push:
-    # Sequence of patterns matched against refs/heads
-    branches:
-        main
+  schedule:
+    - cron:  '*/5 * * * *'
 # When the event is triggered, GitHub Actions will run the jobs indicated
 jobs:
   check:
