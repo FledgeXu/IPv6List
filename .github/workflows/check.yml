@@ -1,0 +1,25 @@
+name: AutoCheck IPv6
+
+on:
+  schedule:
+    - cron:  '*/5 * * * *'
+# When the event is triggered, GitHub Actions will run the jobs indicated
+jobs:
+  check:
+    # Uses a ubuntu-lates runner to complete the requested steps
+    runs-on: ubuntu-latest
+    steps:
+    - run: |
+          git config --global user.name "FledgeXu"
+          git config --global user.email "xzk0701@gmail.com"
+          apt install -y jd
+          chmod +Xx test.sh
+          ./test.sh
+          git add -A
+          git commit -m "$(date) update"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
+          
