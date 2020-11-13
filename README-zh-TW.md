@@ -3,8 +3,8 @@
 ---
 ## IPv6List
 
-![](https://img.shields.io/badge/dynamic/json?color=red&label=所有网站&query=%24.original&url=https%3A%2F%2Fraw.githubusercontent.com%2FFledgeXu%2FIPv6List%2Fmain%2Fstatus.json)
-![](https://img.shields.io/badge/dynamic/json?color=success&label=支援%20IPv6%20的网站&query=%24.ipv6&url=https%3A%2F%2Fraw.githubusercontent.com%2FFledgeXu%2FIPv6List%2Fmain%2Fstatus.json)
+[![](https://img.shields.io/badge/dynamic/json?color=red&label=所有网站&query=%24.original&url=https%3A%2F%2Fraw.githubusercontent.com%2FFledgeXu%2FIPv6List%2Fmain%2Fstatus.json)](https://raw.githubusercontent.com/FledgeXu/IPv6List/main/websites.txt)
+[![](https://img.shields.io/badge/dynamic/json?color=success&label=支援%20IPv6%20的网站&query=%24.ipv6&url=https%3A%2F%2Fraw.githubusercontent.com%2FFledgeXu%2FIPv6List%2Fmain%2Fstatus.json)](https://raw.githubusercontent.com/FledgeXu/IPv6List/main/websites_with_ipv6.txt)
 
 ## 這是什麼?
 
@@ -16,7 +16,7 @@ IPv6List 是一個列表，它收集了一系列支援 IPv6 的網站。你可�
 
 ## 它是如何工作的?
 
-機器人會每天檢測一遍 `wbesites.txt` 中的網址，測試它們是否有 AAAA 記錄，通過 Cloudflare 提供的 DNS over HTTPS 服務。如果一個網址有對應的記錄，機器人會自動的將它加入到 `websites_with_ipv6.txt` 中。
+機器人會每天檢測一遍 `wbesites.txt` 中的網址，測試它們是否有 AAAA 記錄，通過 Cloudflare 提供的 DNS 服務。如果一個網址有對應的記錄，機器人會自動的將它加入到 `websites_with_ipv6.txt` 中。
 
 ## 如何添加域名?
 

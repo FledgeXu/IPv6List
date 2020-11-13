@@ -3,8 +3,8 @@
 ---
 ## IPv6List
 
-![](https://img.shields.io/badge/dynamic/json?color=red&label=Whole%20Websites&query=%24.original&url=https%3A%2F%2Fraw.githubusercontent.com%2FFledgeXu%2FIPv6List%2Fmain%2Fstatus.json)
-![](https://img.shields.io/badge/dynamic/json?color=success&label=Websites%20With%20IPv6&query=%24.ipv6&url=https%3A%2F%2Fraw.githubusercontent.com%2FFledgeXu%2FIPv6List%2Fmain%2Fstatus.json)
+[![](https://img.shields.io/badge/dynamic/json?color=red&label=Whole%20Websites&query=%24.original&url=https%3A%2F%2Fraw.githubusercontent.com%2FFledgeXu%2FIPv6List%2Fmain%2Fstatus.json)](https://raw.githubusercontent.com/FledgeXu/IPv6List/main/websites.txt)
+[![](https://img.shields.io/badge/dynamic/json?color=success&label=Websites%20With%20IPv6&query=%24.ipv6&url=https%3A%2F%2Fraw.githubusercontent.com%2FFledgeXu%2FIPv6List%2Fmain%2Fstatus.json)](https://raw.githubusercontent.com/FledgeXu/IPv6List/main/websites_with_ipv6.txt)
 
 ## What's This?
 
@@ -17,7 +17,7 @@ If they don't have a global address, they will not able not to play Minecraft wi
 
 ## How this works?
 
-The Bot will test the AAAA record of each domain in `wbesites.txt` through the DNS over HTTPS which is offered by Cloudflare. If the bot finds a domain that has AAAA record, the bot will add it to  `websites_with_ipv6.txt`.
+The Bot will test the AAAA record of each domain in `wbesites.txt` through the DNS which is offered by Cloudflare. If the bot finds a domain that has AAAA record, the bot will add it to  `websites_with_ipv6.txt`.
 
 ## How to add a domain?
 
