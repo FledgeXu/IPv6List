@@ -19,7 +19,8 @@ jobs:
           git config --global user.email "xzk0701@gmail.com"
           sudo apt install -y jd
           pwd
-          sudo chmod a+Xx ./test.sh
+          ls
+          #sudo chmod a+Xx ./test.sh
           ./test.sh
           git add -A
           git commit -m "$(date) update"
