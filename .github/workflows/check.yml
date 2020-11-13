@@ -2,7 +2,7 @@ name: AutoCheck IPv6
 
 on:
   schedule:
-    - cron:  '*/5 * * * *'
+    - cron:  '0 0 * * *'
 # When the event is triggered, GitHub Actions will run the jobs indicated
 jobs:
   check:
