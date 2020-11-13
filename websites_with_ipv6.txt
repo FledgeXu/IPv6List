@@ -12,7 +12,6 @@ google.cn
 yahoo.com
 cnnic.cn
 facebook.com
-ci123.com
 instagram.com
 aliyun.com
 sq.cn
@@ -34,6 +33,7 @@ v2ex.com
 mail.ru
 wikia.com
 rutracker.org
+mp4ba.com
 extratorrent.cc
 t66y.com
 ttmeiju.com
@@ -42,6 +42,7 @@ google.com.sg
 lianjia.com
 cnn.com
 wikihow.com
+xiamp4.com
 bbc.co.uk
 google.co.uk
 cnhubei.com
@@ -71,7 +72,6 @@ www.live.com
 www.wikipedia.org
 www.microsoft.com
 www.blogspot.com
-www.qq.com
 www.bing.com
 www.adobe.com
 www.163.com
@@ -83,7 +83,6 @@ www.hotmail.com
 www.flickr.com
 www.photobucket.com
 www.cnet.com
-www.xunlei.com
 www.aol.com
 www.blogger.com
 www.linkedin.com
@@ -180,7 +179,6 @@ www.chip.de
 www.atwiki.jp
 www.freeonlinegames.com
 www.fotolog.com
-www.mp3raid.com
 www.mobile.de
 www.aufeminin.com
 www.wikihow.com
@@ -214,6 +212,8 @@ www.btjunkie.org
 www.seznam.cz
 www.19lou.com
 www.hyves.nl
+www.yoka.com
+www.jrj.com.cn
 www.ya.ru
 www.picnik.com
 www.fanbox.com
@@ -233,6 +233,7 @@ www.bebo.com
 www.hinet.net
 www.kaskus.us
 www.ed.gov
+www.jrj.com.cn
 www.ya.ru
 www.picnik.com
 www.fanbox.com
@@ -266,6 +267,7 @@ www.daily.co.jp
 www.thefind.com
 www.nttdocomo.co.jp
 www.kohls.com
+www.stackoverflow.com
 www.gigazine.net
 www.xuite.net
 www.kooora.com
@@ -315,7 +317,6 @@ www.hotmail.com
 www.flickr.com
 www.photobucket.com
 www.cnet.com
-www.xunlei.com
 www.aol.com
 www.blogger.com
 www.linkedin.com
@@ -412,7 +413,6 @@ www.chip.de
 www.atwiki.jp
 www.freeonlinegames.com
 www.fotolog.com
-www.mp3raid.com
 www.mobile.de
 www.aufeminin.com
 www.wikihow.com
