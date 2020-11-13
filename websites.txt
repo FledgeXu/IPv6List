@@ -2480,3 +2480,6 @@ www.meinvz.net
 www.king.com
 www.virginmedia.com
 www.google.com
+v2mcdev.com
+files.minecraftforge.net
+fabricmc.net
