@@ -1,13 +1,10 @@
 name: AutoCheck IPv6
 
 on:
- workflow_dispatch:
-    # The workflow_dispatch event accepts optional inputs so you can customize the behavior of the workflow
-    inputs:
-      name:
-        description: 'AutoCheck IPv6'
-        required: true
-        default: '?'
+  push:
+    # Sequence of patterns matched against refs/heads
+    branches:
+        main
 # When the event is triggered, GitHub Actions will run the jobs indicated
 jobs:
   check:
