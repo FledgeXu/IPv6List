@@ -470,7 +470,6 @@ www.msn.com
 www.microsoft.com
 www.blogspot.com
 www.baidu.com
-www.qq.com
 www.mozilla.com
 www.sina.com.cn
 www.wordpress.com
