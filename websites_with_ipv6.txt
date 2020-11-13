@@ -69,9 +69,7 @@ cn163.net
 ttmeiju.com
 newsmth.net
 cr173.com
-huawei.com
 pcbeta.com
-google.com.tw
 nga.cn
 trade.tmall.com
 google.com.sg
@@ -95,7 +93,6 @@ javbus.com
 10086.cn
 imooc.com
 tower.im
-cr173.com
 popcash.net
 78.cn
 wikimedia.org
@@ -107,7 +104,6 @@ ithome.com
 12306.cn
 dropbox.com
 android.com
-wankr.com.cn
 imagetwist.com
 yjbys.com
 qidian.com
