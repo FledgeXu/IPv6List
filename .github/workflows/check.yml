@@ -15,10 +15,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - run: |
-          cd ..
           git config --global user.name "FledgeXu"
           git config --global user.email "xzk0701@gmail.com"
-          sudo apt install -y jd
+          sudo apt-get install -y jd
           pwd
           ls
           sudo chmod a+Xx test.sh
