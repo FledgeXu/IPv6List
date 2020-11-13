@@ -20,12 +20,13 @@ jobs:
           sudo apt install -y jd
           pwd
           ls
-          #sudo chmod a+Xx ./test.sh
+          cd IPv6List
+          sudo chmod a+Xx ./test.sh
           ./test.sh
           git add -A
           git commit -m "$(date) update"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+          #- name: Push changes
+          #  uses: ad-m/github-push-action@master
+          #  with:
+          #    github_token: ${{ secrets.GITHUB_TOKEN }}
+          #    branch: ${{ github.ref }}
