@@ -15,13 +15,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - run: |
+          cd ..
           git config --global user.name "FledgeXu"
           git config --global user.email "xzk0701@gmail.com"
           sudo apt install -y jd
           pwd
           ls
-          cd IPv6List
-          sudo chmod a+Xx ./test.sh
+          sudo chmod a+Xx test.sh
           ./test.sh
           git add -A
           git commit -m "$(date) update"
