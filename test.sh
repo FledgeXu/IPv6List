@@ -6,3 +6,6 @@ for i in $(cat ./websites.txt); do
         echo ${i} >> websites_with_ipv6.txt 
     fi
 done
+orginal=$(wc -l < websites.txt)
+ipv6=$(wc -l < websites_with_ipv6.txt)
+echo \{\"original\":${orginal},\"ipv6\":${ipv6}\} > status.json
