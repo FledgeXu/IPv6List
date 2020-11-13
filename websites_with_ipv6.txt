@@ -12,6 +12,7 @@ google.cn
 yahoo.com
 cnnic.cn
 facebook.com
+ci123.com
 instagram.com
 aliyun.com
 sq.cn
@@ -33,7 +34,6 @@ v2ex.com
 mail.ru
 wikia.com
 rutracker.org
-mp4ba.com
 extratorrent.cc
 t66y.com
 ttmeiju.com
@@ -63,7 +63,6 @@ dropbox.com
 android.com
 wankr.com.cn
 imagetwist.com
-dfpan.com
 livejournal.com
 dailymail.co.uk
 www.facebook.com
@@ -84,6 +83,7 @@ www.hotmail.com
 www.flickr.com
 www.photobucket.com
 www.cnet.com
+www.xunlei.com
 www.aol.com
 www.blogger.com
 www.linkedin.com
@@ -111,7 +111,6 @@ www.ocn.ne.jp
 www.youdao.com
 www.nate.com
 www.livejournal.com
-www.soufun.com
 www.tinypic.com
 www.java.com
 www.netflix.com
@@ -181,6 +180,7 @@ www.chip.de
 www.atwiki.jp
 www.freeonlinegames.com
 www.fotolog.com
+www.mp3raid.com
 www.mobile.de
 www.aufeminin.com
 www.wikihow.com
@@ -315,6 +315,7 @@ www.hotmail.com
 www.flickr.com
 www.photobucket.com
 www.cnet.com
+www.xunlei.com
 www.aol.com
 www.blogger.com
 www.linkedin.com
@@ -354,7 +355,6 @@ www.tinyurl.com
 www.autohome.com.cn
 www.yomiuri.co.jp
 www.china.com
-www.6.cn
 www.cntv.cn
 www.orange.fr
 www.comcast.net
@@ -412,6 +412,7 @@ www.chip.de
 www.atwiki.jp
 www.freeonlinegames.com
 www.fotolog.com
+www.mp3raid.com
 www.mobile.de
 www.aufeminin.com
 www.wikihow.com
@@ -528,3 +529,6 @@ www.easy-share.com
 www.experts-exchange.com
 www.ntv.co.jp
 www.google.com
+v2mcdev.com
+files.minecraftforge.net
+fabricmc.net
