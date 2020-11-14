@@ -339,3 +339,5 @@ iptv.tsinghua.edu.cn
 devhjz.eu.org
 mzrme.com
 mzrme.top
+pan.icu
+cdn.angruo.com
