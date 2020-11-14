@@ -22,7 +22,6 @@ xunlei.com
 bbc.com
 google.com.tw
 blogspot.com
-51auto.com
 ccb.com
 huawei.com
 fudan.edu.cn
@@ -42,7 +41,6 @@ google.com.sg
 lianjia.com
 cnn.com
 wikihow.com
-xiamp4.com
 bbc.co.uk
 google.co.uk
 cnhubei.com
@@ -83,12 +81,14 @@ www.hotmail.com
 www.flickr.com
 www.photobucket.com
 www.cnet.com
+www.xunlei.com
 www.aol.com
 www.blogger.com
 www.linkedin.com
 www.yandex.ru
 www.cnn.com
 www.skype.com
+www.renren.com
 www.mozilla.org
 www.hp.com
 www.alipay.com
@@ -212,8 +212,6 @@ www.btjunkie.org
 www.seznam.cz
 www.19lou.com
 www.hyves.nl
-www.yoka.com
-www.jrj.com.cn
 www.ya.ru
 www.picnik.com
 www.fanbox.com
@@ -233,7 +231,6 @@ www.bebo.com
 www.hinet.net
 www.kaskus.us
 www.ed.gov
-www.jrj.com.cn
 www.ya.ru
 www.picnik.com
 www.fanbox.com
@@ -267,7 +264,6 @@ www.daily.co.jp
 www.thefind.com
 www.nttdocomo.co.jp
 www.kohls.com
-www.stackoverflow.com
 www.gigazine.net
 www.xuite.net
 www.kooora.com
@@ -317,6 +313,7 @@ www.hotmail.com
 www.flickr.com
 www.photobucket.com
 www.cnet.com
+www.xunlei.com
 www.aol.com
 www.blogger.com
 www.linkedin.com
@@ -344,6 +341,7 @@ www.ocn.ne.jp
 www.youdao.com
 www.nate.com
 www.livejournal.com
+www.soufun.com
 www.tinypic.com
 www.java.com
 www.netflix.com
