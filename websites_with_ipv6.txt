@@ -6,8 +6,10 @@ www.apache.org
 www.avmo.pw
 www.bilibili.com
 www.ccb.com
+www.cncn.org.cn
 www.cnhubei.com
 www.cnnic.cn
+www.cqcb.com
 www.d1com.com
 www.doubleclick.net
 www.dwnews.com
@@ -38,6 +40,7 @@ www.pcbeta.com
 www.pku.edu.cn
 www.popcash.net
 www.python.org
+www.quanmin.tv
 www.rednet.cn
 www.salesforce.com
 www.sjtu.edu.cn
@@ -63,3 +66,4 @@ devhjz.eu.org
 mzrme.com
 mzrme.top
 pan.icu
+yitianshijie.net
