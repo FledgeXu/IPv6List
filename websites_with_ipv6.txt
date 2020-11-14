@@ -12,7 +12,6 @@ google.cn
 yahoo.com
 cnnic.cn
 facebook.com
-ci123.com
 instagram.com
 aliyun.com
 sq.cn
@@ -23,7 +22,6 @@ xunlei.com
 bbc.com
 google.com.tw
 blogspot.com
-51auto.com
 ccb.com
 huawei.com
 fudan.edu.cn
@@ -34,6 +32,7 @@ v2ex.com
 mail.ru
 wikia.com
 rutracker.org
+mp4ba.com
 extratorrent.cc
 t66y.com
 ttmeiju.com
@@ -71,7 +70,6 @@ www.live.com
 www.wikipedia.org
 www.microsoft.com
 www.blogspot.com
-www.qq.com
 www.bing.com
 www.adobe.com
 www.163.com
@@ -90,6 +88,7 @@ www.linkedin.com
 www.yandex.ru
 www.cnn.com
 www.skype.com
+www.renren.com
 www.mozilla.org
 www.hp.com
 www.alipay.com
@@ -180,7 +179,6 @@ www.chip.de
 www.atwiki.jp
 www.freeonlinegames.com
 www.fotolog.com
-www.mp3raid.com
 www.mobile.de
 www.aufeminin.com
 www.wikihow.com
@@ -343,6 +341,7 @@ www.ocn.ne.jp
 www.youdao.com
 www.nate.com
 www.livejournal.com
+www.soufun.com
 www.tinypic.com
 www.java.com
 www.netflix.com
@@ -412,7 +411,6 @@ www.chip.de
 www.atwiki.jp
 www.freeonlinegames.com
 www.fotolog.com
-www.mp3raid.com
 www.mobile.de
 www.aufeminin.com
 www.wikihow.com
