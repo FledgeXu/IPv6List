@@ -19,6 +19,7 @@ jobs:
       run: |
           git config --global user.name "FledgeXu"
           git config --global user.email "xzk0701@gmail.com"
+          git pull
           sudo apt-get install -y jd
           sudo chmod a+Xx test.sh
           ./test.sh
