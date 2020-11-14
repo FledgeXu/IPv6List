@@ -8,6 +8,7 @@ www.bilibili.com
 www.ccb.com
 www.cnhubei.com
 www.cnnic.cn
+www.cqcb.com
 www.d1com.com
 www.doubleclick.net
 www.dwnews.com
@@ -48,6 +49,7 @@ www.subhd.com
 www.sunsu521.com
 www.t66y.com
 www.tsinghua.edu.cn
+www.ttmeiju.com
 www.v2ex.com
 www.v2mcdev.com
 www.voc.com.cn
@@ -57,3 +59,4 @@ www.xiami.com
 www.xiamp4.com
 www.youth.cn
 www.youtube.com
+iptv.tsinghua.edu.cn
