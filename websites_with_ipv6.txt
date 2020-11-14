@@ -8,7 +8,6 @@ www.bilibili.com
 www.ccb.com
 www.cnhubei.com
 www.cnnic.cn
-www.cqcb.com
 www.d1com.com
 www.doubleclick.net
 www.dwnews.com
@@ -60,3 +59,6 @@ www.xiamp4.com
 www.youth.cn
 www.youtube.com
 iptv.tsinghua.edu.cn
+devhjz.eu.org
+mzrme.com
+mzrme.top
