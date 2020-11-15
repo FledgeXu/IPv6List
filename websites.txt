@@ -343,3 +343,13 @@ pan.icu
 cdn.angruo.com
 blog.yitianshijie.net
 yitianshijie.net
+matters.news
+www.nytimes.com
+www.scmp.com
+news.ycombinator.com
+www.ycombinator.com
+daringfireball.net
+www.mcbbs.net
+www.economist.com
+www.amazon.com
+www.amazon.cn
