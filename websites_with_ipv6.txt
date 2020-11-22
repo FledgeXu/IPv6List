@@ -1,6 +1,5 @@
 www.dailymail.co.uk
 files.minecraftforge.net
-www.10010.com
 www.10086.cn
 www.51auto.com
 www.android.com
@@ -33,10 +32,8 @@ www.imagetwist.com
 www.instagram.com
 www.ithome.com
 www.javbus.com
-www.jia.com
 www.lianjia.com
 www.mit.edu
-www.mp4ba.com
 www.office.com
 www.oracle.com
 www.panda.tv
