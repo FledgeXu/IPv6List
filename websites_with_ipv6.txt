@@ -1,7 +1,6 @@
 www.dailymail.co.uk
 files.minecraftforge.net
 www.10086.cn
-www.51auto.com
 www.android.com
 www.apache.org
 www.avmo.pw
@@ -13,7 +12,9 @@ www.cnnic.cn
 www.cqcb.com
 www.d1com.com
 www.doubleclick.net
+www.dragonparking.com
 www.dwnews.com
+www.eol.cn
 www.extratorrent.cc
 www.fabricmc.net
 www.fudan.edu.cn
@@ -34,15 +35,14 @@ www.ithome.com
 www.javbus.com
 www.lianjia.com
 www.mit.edu
+www.mp4ba.com
 www.office.com
 www.oracle.com
 www.panda.tv
 www.pcbeta.com
-www.pengpeng.com
 www.pku.edu.cn
 www.popcash.net
 www.python.org
-www.quanmin.tv
 www.rednet.cn
 www.salesforce.com
 www.sjtu.edu.cn
