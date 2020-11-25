@@ -5,13 +5,14 @@ www.51auto.com
 www.android.com
 www.apache.org
 www.avmo.pw
+www.bilibili.com
 www.cankaoxiaoxi.com
 www.ccb.com
 www.cnhubei.com
 www.cnnic.cn
-www.cnr.cn
 www.cqcb.com
 www.d1com.com
+www.dfpan.com
 www.doubleclick.net
 www.dragonparking.com
 www.dwnews.com
@@ -44,6 +45,7 @@ www.pengpeng.com
 www.pku.edu.cn
 www.popcash.net
 www.python.org
+www.quanmin.tv
 www.rednet.cn
 www.salesforce.com
 www.sjtu.edu.cn
