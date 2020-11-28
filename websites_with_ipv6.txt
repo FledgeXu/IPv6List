@@ -1,6 +1,7 @@
 www.dailymail.co.uk
 files.minecraftforge.net
 www.10086.cn
+www.51auto.com
 www.android.com
 www.apache.org
 www.avmo.pw
@@ -38,6 +39,7 @@ www.office.com
 www.oracle.com
 www.panda.tv
 www.pcbeta.com
+www.pengpeng.com
 www.pku.edu.cn
 www.popcash.net
 www.python.org
