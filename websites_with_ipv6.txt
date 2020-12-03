@@ -35,7 +35,6 @@ www.ithome.com
 www.javbus.com
 www.lianjia.com
 www.mit.edu
-www.mp4ba.com
 www.office.com
 www.oracle.com
 www.panda.tv
@@ -43,7 +42,6 @@ www.pcbeta.com
 www.pku.edu.cn
 www.popcash.net
 www.python.org
-www.quanmin.tv
 www.rednet.cn
 www.salesforce.com
 www.sjtu.edu.cn
