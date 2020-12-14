@@ -36,7 +36,6 @@ www.ithome.com
 www.javbus.com
 www.lianjia.com
 www.mit.edu
-www.mp4ba.com
 www.office.com
 www.oracle.com
 www.panda.tv
@@ -54,6 +53,7 @@ www.subhd.com
 www.sunsu521.com
 www.t66y.com
 www.tsinghua.edu.cn
+www.ttmeiju.com
 www.v2ex.com
 www.voc.com.cn
 www.weiyun.com
