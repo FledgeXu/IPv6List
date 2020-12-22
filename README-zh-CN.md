@@ -16,7 +16,7 @@ IPv6List 是一个列表，它收集了一系列支持 IPv6 的网站。你可�
 
 ## 它是如何工作的？
 
-机器人会每天检测一遍 `wbesites.txt` 中的网址，测试它们是否有 AAAA 记录，通过 Cloudflare 提供的 DNS 服务。如果一个网址有对应的记录，机器人会自动的将它加入到 `websites_with_ipv6.txt` 中。
+机器人会每天检测一遍 `websites.txt` 中的网址，测试它们是否有 AAAA 记录，通过 Cloudflare 提供的 DNS 服务。如果一个网址有对应的记录，机器人会自动的将它加入到 `websites_with_ipv6.txt` 中。
 
 ## 如何添加域名？
 

@@ -17,7 +17,7 @@ If they don't have a global address, they will not able not to play Minecraft wi
 
 ## How this works?
 
-The Bot will test the AAAA record of each domain in `wbesites.txt` through the DNS which is offered by Cloudflare. If the bot finds a domain that has AAAA record, the bot will add it to  `websites_with_ipv6.txt`.
+The Bot will test the AAAA record of each domain in `websites.txt` through the DNS which is offered by Cloudflare. If the bot finds a domain that has AAAA record, the bot will add it to  `websites_with_ipv6.txt`.
 
 ## How to add a domain?
 
