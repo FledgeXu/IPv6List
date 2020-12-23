@@ -8,7 +8,6 @@ www.babytree.com
 www.bilibili.com
 www.cankaoxiaoxi.com
 www.ccb.com
-www.ccidnet.com
 www.cnhubei.com
 www.cnnic.cn
 www.cqcb.com
@@ -19,6 +18,7 @@ www.dwnews.com
 www.extratorrent.cc
 www.fabricmc.net
 www.fudan.edu.cn
+www.gmw.cn
 www.google.cn
 www.google.co.jp
 www.google.co.kr
@@ -39,6 +39,7 @@ www.mit.edu
 www.mp4ba.com
 www.office.com
 www.oracle.com
+www.panda.tv
 www.pcbeta.com
 www.pku.edu.cn
 www.popcash.net
@@ -57,6 +58,7 @@ www.tsinghua.edu.cn
 www.ttmeiju.com
 www.v2ex.com
 www.v2mcdev.com
+www.vip.com
 www.voc.com.cn
 www.weiyun.com
 www.xiami.com
