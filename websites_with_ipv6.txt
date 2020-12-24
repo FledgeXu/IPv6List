@@ -18,7 +18,6 @@ www.dwnews.com
 www.extratorrent.cc
 www.fabricmc.net
 www.fudan.edu.cn
-www.gmw.cn
 www.google.cn
 www.google.co.jp
 www.google.co.kr
@@ -36,7 +35,6 @@ www.ithome.com
 www.javbus.com
 www.lianjia.com
 www.mit.edu
-www.mp4ba.com
 www.office.com
 www.oracle.com
 www.panda.tv
@@ -44,7 +42,6 @@ www.pcbeta.com
 www.pku.edu.cn
 www.popcash.net
 www.python.org
-www.quanmin.tv
 www.rednet.cn
 www.salesforce.com
 www.sjtu.edu.cn
@@ -58,7 +55,6 @@ www.tsinghua.edu.cn
 www.ttmeiju.com
 www.v2ex.com
 www.v2mcdev.com
-www.vip.com
 www.voc.com.cn
 www.weiyun.com
 www.xiami.com
