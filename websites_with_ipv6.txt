@@ -36,13 +36,15 @@ www.ithome.com
 www.javbus.com
 www.lianjia.com
 www.mit.edu
+www.mp4ba.com
 www.office.com
 www.oracle.com
-www.panda.tv
 www.pcbeta.com
+www.pengpeng.com
 www.pku.edu.cn
 www.popcash.net
 www.python.org
+www.quanmin.tv
 www.rednet.cn
 www.salesforce.com
 www.sjtu.edu.cn
@@ -55,7 +57,6 @@ www.t66y.com
 www.tsinghua.edu.cn
 www.v2ex.com
 www.v2mcdev.com
-www.vip.com
 www.voc.com.cn
 www.weiyun.com
 www.xiami.com
