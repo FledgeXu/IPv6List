@@ -7,7 +7,6 @@ www.apache.org
 www.avmo.pw
 www.babytree.com
 www.bilibili.com
-www.cankaoxiaoxi.com
 www.ccb.com
 www.cnhubei.com
 www.cnnic.cn
@@ -54,6 +53,7 @@ www.subhd.com
 www.sunsu521.com
 www.t66y.com
 www.tsinghua.edu.cn
+www.ttmeiju.com
 www.v2ex.com
 www.v2mcdev.com
 www.voc.com.cn
