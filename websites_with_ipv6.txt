@@ -40,9 +40,11 @@ www.office.com
 www.oracle.com
 www.panda.tv
 www.pcbeta.com
+www.pengpeng.com
 www.pku.edu.cn
 www.popcash.net
 www.python.org
+www.quanmin.tv
 www.rednet.cn
 www.salesforce.com
 www.sjtu.edu.cn
