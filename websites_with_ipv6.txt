@@ -6,6 +6,7 @@ www.android.com
 www.apache.org
 www.avmo.pw
 www.bilibili.com
+www.cankaoxiaoxi.com
 www.ccb.com
 www.cnhubei.com
 www.cnnic.cn
@@ -35,15 +36,14 @@ www.ithome.com
 www.javbus.com
 www.lianjia.com
 www.mit.edu
-www.mp4ba.com
 www.office.com
 www.oracle.com
 www.panda.tv
 www.pcbeta.com
-www.pengpeng.com
 www.pku.edu.cn
 www.popcash.net
 www.python.org
+www.quanmin.tv
 www.rednet.cn
 www.salesforce.com
 www.sjtu.edu.cn
@@ -62,7 +62,6 @@ www.xiami.com
 www.xiamp4.com
 www.youth.cn
 www.youtube.com
-www.zhangw8.com
 iptv.tsinghua.edu.cn
 devhjz.eu.org
 mzrme.com
