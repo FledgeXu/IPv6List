@@ -34,6 +34,8 @@ www.imagetwist.com
 www.instagram.com
 www.ithome.com
 www.javbus.com
+www.jiemian.com
+www.jstv.com
 www.lianjia.com
 www.mit.edu
 www.office.com
@@ -42,6 +44,7 @@ www.pcbeta.com
 www.pku.edu.cn
 www.popcash.net
 www.python.org
+www.quanmin.tv
 www.rednet.cn
 www.salesforce.com
 www.sjtu.edu.cn
