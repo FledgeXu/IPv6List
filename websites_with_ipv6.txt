@@ -5,6 +5,7 @@ www.android.com
 www.apache.org
 www.avmo.pw
 www.bilibili.com
+www.cankaoxiaoxi.com
 www.ccb.com
 www.cnhubei.com
 www.cnnic.cn
@@ -18,6 +19,7 @@ www.extratorrent.cc
 www.fabricmc.net
 www.ftchinese.com
 www.fudan.edu.cn
+www.gmw.cn
 www.google.cn
 www.google.co.jp
 www.google.co.kr
@@ -37,7 +39,6 @@ www.jiemian.com
 www.jstv.com
 www.lianjia.com
 www.mit.edu
-www.mp4ba.com
 www.office.com
 www.oracle.com
 www.pcbeta.com
