@@ -1,6 +1,7 @@
 www.dailymail.co.uk
 files.minecraftforge.net
 www.10086.cn
+www.51auto.com
 www.android.com
 www.apache.org
 www.avmo.pw
@@ -9,6 +10,7 @@ www.cankaoxiaoxi.com
 www.ccb.com
 www.cnhubei.com
 www.cnnic.cn
+www.cnr.cn
 www.cqcb.com
 www.cqnews.net
 www.d1com.com
@@ -19,7 +21,6 @@ www.extratorrent.cc
 www.fabricmc.net
 www.ftchinese.com
 www.fudan.edu.cn
-www.gmw.cn
 www.google.cn
 www.google.co.jp
 www.google.co.kr
@@ -39,6 +40,7 @@ www.jiemian.com
 www.jstv.com
 www.lianjia.com
 www.mit.edu
+www.mp4ba.com
 www.office.com
 www.oracle.com
 www.pcbeta.com
@@ -63,6 +65,7 @@ www.xiami.com
 www.xiamp4.com
 www.youth.cn
 www.youtube.com
+www.suning.com
 iptv.tsinghua.edu.cn
 devhjz.eu.org
 mzrme.com
