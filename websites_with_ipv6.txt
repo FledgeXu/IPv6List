@@ -1,13 +1,10 @@
 www.dailymail.co.uk
 files.minecraftforge.net
 www.10086.cn
-www.51auto.com
 www.android.com
 www.apache.org
 www.avmo.pw
-www.battlenet.com.cn
 www.bilibili.com
-www.caijing.com.cn
 www.ccb.com
 www.cnhubei.com
 www.cnnic.cn
@@ -17,7 +14,6 @@ www.d1com.com
 www.doubleclick.net
 www.dragonparking.com
 www.dwnews.com
-www.eol.cn
 www.extratorrent.cc
 www.fabricmc.net
 www.ftchinese.com
@@ -41,7 +37,6 @@ www.jiemian.com
 www.jstv.com
 www.lianjia.com
 www.mit.edu
-www.mydrivers.com
 www.office.com
 www.oracle.com
 www.pcbeta.com
@@ -49,7 +44,6 @@ www.pengpeng.com
 www.pku.edu.cn
 www.popcash.net
 www.python.org
-www.quanmin.tv
 www.rednet.cn
 www.salesforce.com
 www.sjtu.edu.cn
@@ -60,6 +54,7 @@ www.subhd.com
 www.sunsu521.com
 www.t66y.com
 www.tsinghua.edu.cn
+www.ttmeiju.com
 www.v2ex.com
 www.v2mcdev.com
 www.vip.com
@@ -69,6 +64,7 @@ www.xiami.com
 www.xiamp4.com
 www.youth.cn
 www.youtube.com
+www.zhangw8.com
 iptv.tsinghua.edu.cn
 devhjz.eu.org
 mzrme.com
