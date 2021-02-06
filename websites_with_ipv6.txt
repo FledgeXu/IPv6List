@@ -1,7 +1,6 @@
 www.dailymail.co.uk
 files.minecraftforge.net
 www.10086.cn
-www.51auto.com
 www.android.com
 www.apache.org
 www.avmo.pw
@@ -35,16 +34,16 @@ www.instagram.com
 www.ithome.com
 www.javbus.com
 www.jiemian.com
+www.jstv.com
 www.lianjia.com
 www.mit.edu
-www.mp4ba.com
 www.office.com
 www.oracle.com
 www.pcbeta.com
+www.pengpeng.com
 www.pku.edu.cn
 www.popcash.net
 www.python.org
-www.quanmin.tv
 www.rednet.cn
 www.salesforce.com
 www.sjtu.edu.cn
@@ -55,6 +54,7 @@ www.subhd.com
 www.sunsu521.com
 www.t66y.com
 www.tsinghua.edu.cn
+www.ttmeiju.com
 www.v2ex.com
 www.v2mcdev.com
 www.voc.com.cn
