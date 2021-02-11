@@ -42,6 +42,7 @@ www.mp4ba.com
 www.office.com
 www.oracle.com
 www.pcbeta.com
+www.pengpeng.com
 www.pku.edu.cn
 www.popcash.net
 www.python.org
@@ -56,7 +57,6 @@ www.subhd.com
 www.sunsu521.com
 www.t66y.com
 www.tsinghua.edu.cn
-www.ttmeiju.com
 www.v2ex.com
 www.v2mcdev.com
 www.voc.com.cn
