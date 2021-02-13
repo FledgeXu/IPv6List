@@ -12,7 +12,6 @@ www.cnhubei.com
 www.cnnic.cn
 www.cqcb.com
 www.cqnews.net
-www.d1com.com
 www.doubleclick.net
 www.dragonparking.com
 www.dwnews.com
@@ -20,6 +19,7 @@ www.extratorrent.cc
 www.fabricmc.net
 www.ftchinese.com
 www.fudan.edu.cn
+www.gmw.cn
 www.google.cn
 www.google.co.jp
 www.google.co.kr
@@ -40,7 +40,6 @@ www.joyme.com
 www.jstv.com
 www.lianjia.com
 www.mit.edu
-www.mp4ba.com
 www.office.com
 www.oracle.com
 www.pcbeta.com
@@ -67,6 +66,7 @@ www.weiyun.com
 www.xiamp4.com
 www.youth.cn
 www.youtube.com
+www.zhangw8.com
 iptv.tsinghua.edu.cn
 devhjz.eu.org
 mzrme.com
@@ -75,6 +75,7 @@ pan.icu
 yitianshijie.net
 www.scmp.com
 daringfireball.net
+www.economist.com
 blog.yinghualuo.cn
 ip.yinghualuo.cn
 tool.yinghualuo.cn
