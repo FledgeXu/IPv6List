@@ -5,6 +5,7 @@ www.android.com
 www.apache.org
 www.avmo.pw
 www.bilibili.com
+www.cankaoxiaoxi.com
 www.ccb.com
 www.cnhubei.com
 www.cnnic.cn
@@ -38,14 +39,13 @@ www.joyme.com
 www.jstv.com
 www.lianjia.com
 www.mit.edu
+www.mp4ba.com
 www.office.com
 www.oracle.com
 www.pcbeta.com
-www.pengpeng.com
 www.pku.edu.cn
 www.popcash.net
 www.python.org
-www.quanmin.tv
 www.rednet.cn
 www.salesforce.com
 www.sjtu.edu.cn
