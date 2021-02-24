@@ -2,6 +2,7 @@ www.dailymail.co.uk
 files.minecraftforge.net
 www.10086.cn
 www.51auto.com
+www.51cto.com
 www.android.com
 www.apache.org
 www.avmo.pw
@@ -12,6 +13,7 @@ www.cnnic.cn
 www.cqcb.com
 www.cqnews.net
 www.d1com.com
+www.dfpan.com
 www.doubleclick.net
 www.dragonparking.com
 www.dwnews.com
@@ -38,6 +40,7 @@ www.jiemian.com
 www.jstv.com
 www.lianjia.com
 www.mit.edu
+www.mp4ba.com
 www.office.com
 www.oracle.com
 www.pcbeta.com
@@ -53,6 +56,7 @@ www.sq.cn
 www.subhd.com
 www.t66y.com
 www.tsinghua.edu.cn
+www.ttmeiju.com
 www.v2ex.com
 www.v2mcdev.com
 www.voc.com.cn
