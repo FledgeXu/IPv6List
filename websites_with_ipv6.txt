@@ -38,12 +38,14 @@ www.jiemian.com
 www.jstv.com
 www.lianjia.com
 www.mit.edu
+www.mp4ba.com
 www.office.com
 www.oracle.com
 www.pcbeta.com
 www.pku.edu.cn
 www.popcash.net
 www.python.org
+www.quanmin.tv
 www.rednet.cn
 www.salesforce.com
 www.sjtu.edu.cn
@@ -53,6 +55,7 @@ www.sq.cn
 www.subhd.com
 www.t66y.com
 www.tsinghua.edu.cn
+www.ttmeiju.com
 www.v2ex.com
 www.v2mcdev.com
 www.voc.com.cn
@@ -68,7 +71,6 @@ pan.icu
 yitianshijie.net
 www.scmp.com
 daringfireball.net
-www.economist.com
 blog.yinghualuo.cn
 ip.yinghualuo.cn
 tool.yinghualuo.cn
